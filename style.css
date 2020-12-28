@@ -1,0 +1,38 @@
+table
+{
+  font-family: 'Oleo Script', Helvetica, sans-serif;
+}
+caption.cap
+{
+   font-style: Italic;
+   color: #00008B;
+   font-size: 45px;
+}
+tr.hd
+{
+   color: #0000A0;
+   font-Size: 45px;
+}
+tr.team
+{
+   color: #006400;
+   font-family: 'Brush Script MT', Cursive;
+   font-size: 40px; 
+}  
+tr.tul
+{
+  color: #FF7F50;
+  font-size: 25px;
+}
+tr.mem
+{
+   color: #8A2BE2;
+   font-size: 25px;
+}
+tr.south
+{
+  color: #A52A2A;
+  font-size: 25px;
+}
+
+
